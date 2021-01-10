@@ -1,4 +1,4 @@
-Vivint/Vivotek HTTP to HTTPS Relay For Home Assistant Web Hook Application
+Vivint/Vivotek HTTP Relay For Home Assistant Web Hook Application
 ------------------
 *For Use With Home Assistant In a Python Environment*
 
